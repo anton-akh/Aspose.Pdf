@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposePoc", "AsposePoc\AsposePoc.csproj", "{1EDC0211-8361-49B3-B5D0-F1BF627CFBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EDC0211-8361-49B3-B5D0-F1BF627CFBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDC0211-8361-49B3-B5D0-F1BF627CFBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDC0211-8361-49B3-B5D0-F1BF627CFBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDC0211-8361-49B3-B5D0-F1BF627CFBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D932CE-39FD-40D1-9284-88F053D19C36}
+	EndGlobalSection
+EndGlobal
